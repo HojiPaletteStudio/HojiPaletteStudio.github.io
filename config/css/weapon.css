@@ -62,8 +62,8 @@ html{
 }
 #ruleAlert .box-content{
     background-color: rgb(255, 205, 105);
-    width: 40vw;
-    max-width: 600px;
+    width: 50vw;
+    /* max-width: 800px; */
     min-width: 400px; /* ปรับขนาดตามเนื้อหา */
   margin: 0 auto; /* จัดกึ่งกลางแนวนอน */
   position: relative; /* กำหนดตำแหน่งสัมพัทธ์ */
